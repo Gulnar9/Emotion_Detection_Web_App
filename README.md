@@ -4,11 +4,11 @@ In this practice project, you will be introduced to the creation of a web app in
 The application was deployed over the web using Flask framework. Also to check validity of application performance, we applied unittests, followed by PEP8 coding guidelines and error handling. All activities that get you to deploy a functional AI-based web apps are broken down into tasks as listed below.
 
 # Project Tasks
-Task 1: Clone the project repository
-As a start, we clone the GitHub repository of the project using Cloud IDE terminal: https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.< br / >
+Task 1: Clone the project repository__
+As a start, we clone the GitHub repository of the project using Cloud IDE terminal: https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.
 
-Task 2: Create a sentiment analysis application using Watson NLP library
-For creating the sentiment analysis application, we will use Watson Embedded AI Libraries. The written function will receive text as an input and return detected emotion as a response.< br / >
+Task 2: Create a sentiment analysis application using Watson NLP library__
+For creating the sentiment analysis application, we will use Watson Embedded AI Libraries. The written function will receive text as an input and return detected emotion as a response.
 
 Task 3: Format the output of the application
 We modify response received from the application in a dictionary format to make it more user-friendly.
