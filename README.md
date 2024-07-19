@@ -1,7 +1,7 @@
 # Introduction
 In this practice project, you will be introduced to the creation of a web app integrated with Watson AI libraries to perform sentiment analysis on the provided text. The sentiment analysis web application categorizes text inputs as different types of emotion, specifically: joy, sadness, anger, disgust or fear. The application was built using Watson Embedded AI Libraries and NLP BERT Seniment Analysis model. This repository recreates the steps that were performed to build the web app.
 
-The application was deployed over the web using **Flask** framework. Also to check validity of application performance, we applied **unittests**, followed by **PEP8** coding guidelines and error handling. 
+The application was deployed over the web using Flask framework. Also to check validity of application performance, we applied unittests, followed by PEP8 coding guidelines and error handling. 
 
 # Project Tasks
 
