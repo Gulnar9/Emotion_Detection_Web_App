@@ -27,8 +27,7 @@ Organizing our files into the package for further application launching
 
 Before deployment, we test the performance of our application.
 
-**Task 6: Deploy as web application using Flask<br />
-**
+**Task 6: Deploy as web application using Flask<br />**
 Deploying our application as a web application using Flask framework.
 
 **Task 7: Incorporate error handling<br />**
