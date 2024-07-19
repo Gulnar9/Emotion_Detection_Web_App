@@ -38,5 +38,9 @@ Updating emotion_detection function to handle different error codes, invalid str
 
 We check the quality of our coding skills as per the PEP8 guidelines by running static code analysis.
 
+# Conclusion
+
 End result of these tasks is an emotion detection application accessible over the web interface.
 
+
+![app screen](https://github.com/user-attachments/assets/5207a9a6-1c13-40c0-b618-41a8ebb3fd69)
